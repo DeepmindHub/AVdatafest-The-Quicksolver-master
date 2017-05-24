@@ -1,5 +1,4 @@
-# AVdatafest-The-Quicksolver
-Analytics Vidhya, The Quicksolver Hackathon
+
 
 ### Introduction
 R script for team "mark12" to win The Quicksolver hackathon on Analytics Vidhya (https://datahack.analyticsvidhya.com/contest/avdatafest-the-quicksolver)
