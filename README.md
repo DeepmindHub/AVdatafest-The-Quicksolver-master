@@ -1,7 +1,5 @@
 
 
-### Introduction
-R script for team "mark12" to win The Quicksolver hackathon on Analytics Vidhya (https://datahack.analyticsvidhya.com/contest/avdatafest-the-quicksolver)
 
 In short, features were created using Matt Dowle's data.table package and the modeling was done with three H2O models: random forest and two GBMs.
 
